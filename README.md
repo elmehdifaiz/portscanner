@@ -1,2 +1,2 @@
 # portscanner
-Port scanner written in go
+Simple port scanner written in go.
